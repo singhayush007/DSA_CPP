@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{ /* Decimal to Binary
+/* int main()
+{  Decimal to Binary
      int num;
     cout << "Enter the number: ";
     cin >> num;
@@ -41,7 +41,7 @@ int main()
     mul *= 2;
    }
 
-   cout<<ans<<endl; */
+   cout<<ans<<endl; 
 
     // Binary to Octal
 
@@ -72,4 +72,4 @@ int main()
         }
         cout << "Octal equivalent: " << octalNum << endl;
     }
-}
+} */
